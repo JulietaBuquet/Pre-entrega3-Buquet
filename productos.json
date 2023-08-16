@@ -1,0 +1,123 @@
+[
+    {
+        "id": "hamburguesa-01",
+        "titulo": "Grey Burger",
+        "imagen":"./imagenes/hamburguesa.jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "hamburguesa-02",
+        "titulo": "Lady Burger",
+        "imagen":"./imagenes/hamburguesa (2).jpg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesas"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "hamburguesa-03",
+        "titulo": "Big Grey",
+        "imagen":"./imagenes/hamburguesa (4).jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesas"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "hamburguesa-04",
+        "titulo": "The King Burger",
+        "imagen":"./imagenes/hamburguesa (3).jpeg",
+        "categoria": {
+            "nombre": "Hamburguesa",
+            "id": "hamburguesas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "pizza-01",
+        "titulo": "Pizza Muzza",
+        "imagen":"./imagenes/pizza.jpg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "pizzas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "pizza-02",
+        "titulo": "Pizza Napotilana",
+        "imagen":"./imagenes/pizza (2).jpg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "pizzas"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "cerveza-01",
+        "titulo": "Corona",
+        "imagen":"./imagenes/corona.jpeg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "cerveza-02",
+        "titulo": "Cerveza Artesanal-Honey-Jarra",
+        "imagen":"./imagenes/jarradecerveza.jpg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cerveza-03",
+        "titulo": "Cerveza Artesanal-Ipa-Pinta",
+        "imagen":"./imagenes/pinta.jpeg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "cerveza-04",
+        "titulo": "Cerveza Artesanal-Scoch-Pinta",
+        "imagen":"./imagenes/pintas.jpeg",
+        "categoria": {
+            "nombre": "Cervezas",
+            "id": "cervezas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pizza-03",
+        "titulo": "Pizza de Espinaca",
+        "imagen":"./imagenes/pizza-espinaca.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "pizzas"
+        },
+        "precio": 2600
+    },
+    {
+        "id": "pizza-04",
+        "titulo": "Pizza de Jamon Y Morron",
+        "imagen":"./imagenes/pizzaj.jpeg",
+        "categoria": {
+            "nombre": "Pizzas",
+            "id": "pizzas"
+        },
+        "precio": 2500
+    }
+
+]
